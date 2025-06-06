@@ -7,22 +7,25 @@
 
 ---
 
-## 🖼️ 주요 기능
+## 주요 기능
 
 - 이미지 업로드 (JPG/PNG)
+
 - 대표 화풍 5종 선택 (Van Gogh, Monet, Picasso, Kandinsky, Dali)
+
 - 실시간 스타일 변환 결과 출력
+
 - Streamlit 기반 웹 인터페이스
 
 ---
 
-## 🚀 실행 방법
+## 실행 방법
 
 ```bash
 streamlit run main.py
 ```
 
-### 1. 환경 설정
+### 1. 환경 설정  
 
 ```bash
 pip install -r requirements.txt
