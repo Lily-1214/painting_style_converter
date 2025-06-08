@@ -10,7 +10,7 @@
 ## 주요 기능
 
 - Streamlit 기반 웹 인터페이스
-- 
+
 - 이미지 업로드 (JPG/PNG)
 
 - 대표 화풍 5종 선택 (Van Gogh, Monet, Picasso, Kandinsky, Dali)
