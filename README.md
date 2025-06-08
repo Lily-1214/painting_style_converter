@@ -9,13 +9,23 @@
 
 ## 주요 기능
 
+- Streamlit 기반 웹 인터페이스
+- 
 - 이미지 업로드 (JPG/PNG)
 
 - 대표 화풍 5종 선택 (Van Gogh, Monet, Picasso, Kandinsky, Dali)
 
+![Image](https://github.com/user-attachments/assets/f8abfb4a-0e79-4a51-9b75-17d05db7f108)
+
 - 실시간 스타일 변환 결과 출력
 
-- Streamlit 기반 웹 인터페이스
+<img width="380" alt="Image" src="https://github.com/user-attachments/assets/a17d8f3c-53eb-42f5-a915-d4994e330a78" />
+
+![Image](https://github.com/user-attachments/assets/24f66981-017d-489f-9153-c84acd4c770f)
+
+![Image](https://github.com/user-attachments/assets/78c9a239-51ae-4618-9180-0e123f6518c7)
+
+![Image](https://github.com/user-attachments/assets/3a383ca9-b2f5-4b1e-99c9-754a42d76c89)
 
 ---
 
